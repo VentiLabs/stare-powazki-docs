@@ -5,7 +5,7 @@ import { l } from "./src/utils";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://piotrekpkp.github.io",
+  site: "https://ventilabs.github.io",
   base: l(""),
   integrations: [
     starlight({
